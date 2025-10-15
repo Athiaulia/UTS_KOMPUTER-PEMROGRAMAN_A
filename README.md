@@ -35,7 +35,7 @@ File ini berfungsi untuk merepresentasikan data satu kelas, yang berisi:
 + Nama kelas.
 + Daftar mahasiswa yang tergabung di kelas tersebut.
 
-### Fungsi utama di **`Kelas.java()`**
+## Fungsi utama di **`Kelas.java()`**
 
 * **`tambahMahasiswa()`**
   Menambahkan objek `Mahasiswa` baru ke dalam daftar kelas.
@@ -60,7 +60,7 @@ File ini merepresentasikan satu orang mahasiswa.
 
 ---
 
-### Alur Program Keseluruhan
+## Alur Program Keseluruhan
 
 1. **User memasukkan data kelas dan jumlah pertemuan.**
 2. **User mengisi data tiap mahasiswa:**
