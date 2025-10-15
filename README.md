@@ -1,6 +1,6 @@
 # Studi Kasus ke-9: Sistem Absensi Mahasiswa
 
-### Anggota Kelompok:
+## Anggota Kelompok:
 1) Ardi Nugrahanto (G1A025023)
 2) Athiya Rahma Aulia (G1A025031)
 3) Suryadi Agusmawanto (G1A025117)
