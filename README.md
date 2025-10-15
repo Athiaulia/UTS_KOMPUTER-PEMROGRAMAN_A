@@ -5,11 +5,11 @@
 2) Athiya Rahma Aulia (G1A025031)
 3) Suryadi Agusmawanto (G1A025117)
 -----
-### Overview Sistem
+## Overview Sistem
 Program ini dibuat untuk mengelola data kehadiran mahasiswa dalam sebuah kelas. Program meminta input berupa nama kelas, jumlah mahasiswa, dan jumlah pertemuan. Setiap mahasiswa kemudian akan diinputkan datanya (nama dan NPM), lalu program akan menanyakan apakah mahasiswa tersebut hadir pada tiap pertemuan. Setelah semua data dimasukkan, program akan menampilkan rekap kehadiran lengkap dalam bentuk tabel, termasuk persentase kehadiran dan status “LULUS / TIDAK LULUS”.
 
 -----
-### Penjelasan Tiap File
+## Penjelasan Tiap File
 a. Main.java
 File ini berfungsi sebagai program utama (entry point). Isinya:
 + Membaca input dari pengguna menggunakan Scanner.
@@ -35,7 +35,7 @@ File ini berfungsi untuk merepresentasikan data satu kelas, yang berisi:
 + Nama kelas.
 + Daftar mahasiswa yang tergabung di kelas tersebut.
 
-#### Fungsi utama di **`Kelas.java()`**
+### Fungsi utama di **`Kelas.java()`**
 
 * **`tambahMahasiswa()`**
   Menambahkan objek `Mahasiswa` baru ke dalam daftar kelas.
